@@ -1,17 +1,5 @@
 # Michelle Harris - Data Analytics Portfolio
 
-## About Me
-
-👋 Hi, I'm **Michelle Harris**!
-
-Data-focused professional with 5+ years of experience analyzing workflows, performance metrics, and operational data within highly regulated environments. I'm passionate about transforming complex data into actionable insights that drive business decisions.
-
-📍 **Location:** Minneapolis, MN  
-📧 **Email:** mnharris011@gmail.com  
-💼 **LinkedIn:** [michelle-nicole-harris](https://www.linkedin.com/in/michelle-nicole-harris/)
-
----
-
 ## 📊 Projects
 
 | Project Name | Description | Tools Used | Status | Link |
